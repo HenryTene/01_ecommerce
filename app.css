@@ -1,5 +1,27 @@
+/* aplica un modelo natural de disposición en cajas a todos los elementos, pero permitiendo que los componentes cambien */
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
 
 .nombre-sitio span {
   color: #037bc0;
 }
 
+/* Box Model **/
+
+.sobre-nosotros {
+  background-color: red;
+  width: 200px;
+  padding: 25px;
+  
+  
+}
+.sobre-empresa{
+  background-color: blue;
+  width: 500px;
+  padding: 100px;
+  
+}
