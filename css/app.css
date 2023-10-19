@@ -31,9 +31,10 @@ a {
 .contenedor-navegacion{
   border-top: 1px solid #e1e1e1;
 }
-.nav-principal {
-  
+.nav-principal {  
   padding: 20px 0px;
+  display:flex;
+  justify-content: space-between;
 }
 .hero {
   background-image: url(../img/principal.jpg);
