@@ -14,8 +14,7 @@ Bienvenido/a a la Tienda de Muebles Ecommerce, una aplicación web de comercio e
 - [Licencia](#licencia)
 
 ## Descripción
-
-Esta aplicación web proporciona a los usuarios una experiencia de compra intuitiva y agradable, con categorías de productos que incluyen oficina, hogar y cocina. Explora nuestra selección de muebles de alta calidad y encuentra los productos perfectos para tu espacio.
+Esta aplicación web estática de muebles hace uso creativo de las propiedades básicas de CSS para lograr un diseño visualmente atractivo y una experiencia de usuario intuitiva. Desde la disposición de cajas hasta el manejo de fuentes y colores, cada detalle ha sido cuidadosamente diseñado utilizando las capacidades fundamentales de CSS.
 
 ## Capturas de Pantalla
 
