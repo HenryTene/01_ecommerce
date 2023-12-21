@@ -19,7 +19,12 @@ Esta aplicación web proporciona a los usuarios una experiencia de compra intuit
 
 ## Capturas de Pantalla
 
-Inserta aquí algunas capturas de pantalla destacadas de tu aplicación para dar a los usuarios una vista previa visual.
+![01-ecommerce-01](https://github.com/HenryTene/01_ecommerce/assets/29009340/e001bb56-de13-48b0-9808-8c8c784404e2)
+![01_ecommerce-02](https://github.com/HenryTene/01_ecommerce/assets/29009340/7e983f21-5de1-439d-8249-1273af1ce10e)
+![01-ecommerce-03](https://github.com/HenryTene/01_ecommerce/assets/29009340/279d9911-2a91-40d3-9ad7-c54d40947b5c)
+![01-ecommerce-04](https://github.com/HenryTene/01_ecommerce/assets/29009340/bec13cff-feea-4541-97a4-d4930940642c)
+![01-ecommerce-05](https://github.com/HenryTene/01_ecommerce/assets/29009340/b2339f48-fb7b-4e32-a90d-72f5b69a8a82)
+
 
 ## Requisitos Previos
 
