@@ -14,7 +14,7 @@ Bienvenido/a a la Tienda de Muebles Ecommerce, una aplicación web de comercio e
 - [Licencia](#licencia)
 
 ## Descripción
-Esta aplicación web estática de muebles hace uso creativo de las propiedades básicas de CSS para lograr un diseño visualmente atractivo y una experiencia de usuario intuitiva. Desde la disposición de cajas hasta el manejo de fuentes y colores, cada detalle ha sido cuidadosamente diseñado utilizando las capacidades fundamentales de CSS.
+Esta web estática de muebles hace uso creativo de las propiedades básicas de CSS para lograr un diseño visualmente atractivo y una experiencia de usuario intuitiva. Desde la disposición de cajas hasta el manejo de fuentes y colores, cada detalle ha sido cuidadosamente diseñado utilizando las capacidades fundamentales de CSS.
 
 ## Capturas de Pantalla
 
