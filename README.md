@@ -31,7 +31,7 @@ Esta web estática de muebles hace uso creativo de las propiedades básicas de C
 
 ## Instalación
 
-1. Clona este repositorio: `git clone [URL del repositorio]`
+1. Clona este repositorio: `git clone https://github.com/HenryTene/01_ecommerce`
 2. Abre el archivo `index.html` en tu navegador.
 
 ## Uso
