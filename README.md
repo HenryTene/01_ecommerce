@@ -1,6 +1,6 @@
 # Tienda de Muebles Ecommerce
 
-Bienvenido/a a la Tienda de Muebles Ecommerce, una aplicación web de comercio electrónico para explorar y comprar una variedad de productos para el hogar.
+Bienvenido a la Tienda de Muebles Ecommerce, una aplicación web de comercio electrónico para explorar y comprar una variedad de productos para el hogar.
 
 ## Contenido
 
